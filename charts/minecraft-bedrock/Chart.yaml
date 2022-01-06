@@ -22,3 +22,4 @@ annotations:
       url: https://github.com/itzg/docker-minecraft-bedrock-server
     - name: Image DockerHub
       url: https://hub.docker.com/r/itzg/minecraft-bedrock-server
+  service.beta.kubernetes.io/aws-load-balancer-type: "nlb"
